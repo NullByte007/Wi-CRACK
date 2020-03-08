@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/xh70dj7/wicrack.png" width="300px" height="300px">
+<img src="https://img.techpowerup.org/200308/wicrack.png" width="300px" height="300px">
 </p>
 
 
