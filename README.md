@@ -1,8 +1,5 @@
-
-
-
 <p align="center">
-<img src="https://i.ibb.co/xh70dj7/wicrack.png" width="300px" height="300px">
+<img src="https://i.ibb.co/v1jGRPj/wicrack.png" width="300px" height="300px">
 </p>
 
 
